@@ -1,5 +1,5 @@
 # IOT BASED AIR POLLUTION MONITORING SYSTEM
-## Project for Web3athon
+## Project for Web3athon (Hackerearth)
 ## Team Details
 ### Team Members: MOHAMED FARHUN M, NANDHAKUMAR S
 ## Project overview
